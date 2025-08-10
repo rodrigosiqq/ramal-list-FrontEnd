@@ -1,3 +1,14 @@
+## ESTE PROJETO TRATA-SE DO FRONTEND PARA A API RAMAL LIST; 
+    uma aplicação simples que lista Ramais por Setores de uma determinada empresa,
+    este frontend feito em NextJS faz fatch da API feita em NodeJS com TypeScript e banco SQLite3
+    
+
+
+
+
+
+
+<img width="1364" height="686" alt="Captura de imagem_20250810_064147" src="https://i.postimg.cc/zvthpQf9/Captura-de-imagem-20250810-064147.png" />
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
